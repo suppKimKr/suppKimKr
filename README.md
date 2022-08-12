@@ -10,7 +10,11 @@
 
 💪🏼 Tools
 
- <img src="https://img.shields.io/badge/Webstorm-000000?style=flat-square&logo=Webstorm&logoColor=white"/> <img src="https://img.shields.io/badge/Datagrip-000000?style=flat-square&logo=Datagrip&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Webstorm-000000?style=flat-square&logo=Webstorm&logoColor=white"/> <img src="https://img.shields.io/badge/Datagrip-000000?style=flat-square&logo=Datagrip&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> 
+
+⚙️ Infrastructure
+
+ <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white"/>
 
 ![Jiwon Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=suppKimKr&show_icons=true&theme=radical)
 
