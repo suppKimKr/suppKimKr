@@ -1,4 +1,4 @@
-### Hi Welcome, i'm YUNA BAE 👋
+### Hi Welcome, i'm JIWON KIM 👋
 
 #### Backend Developer
 
