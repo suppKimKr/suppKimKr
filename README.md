@@ -1,4 +1,4 @@
-### Hi Welcome, i'm JIWON KIM 👋
+### RE:start, Jiwon Kim
 
 #### Backend Developer
 
@@ -18,12 +18,16 @@
 
 ⚙️ Infrastructure
 
+<p align="center">
  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white"/>
+</p>
 
 ![Jiwon Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=suppKimKr&show_icons=true&theme=radical)
 
 
 🧑🏻‍💻 About Me
 
+<p align="center">
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byjiwon@korea.ac.kr)](byjiwon@korea.ac.kr)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://suppkim.notion.site/6bf0dd73077f4817b0881e682c7b4599)](https://suppkim.notion.site/6bf0dd73077f4817b0881e682c7b4599)
+</p>
