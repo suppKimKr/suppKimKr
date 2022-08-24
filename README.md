@@ -22,8 +22,9 @@
  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white"/>
 </p>
 
+<p align="center">
 ![Jiwon Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=suppKimKr&show_icons=true&theme=radical)
-
+</p>
 
 🧑🏻‍💻 About Me
 
