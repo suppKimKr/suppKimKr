@@ -31,7 +31,7 @@
  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white"/>
 </p>
  
-![Jiwon Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=suppKimKr&show_icons=true&theme=radical)
+![Jiwon Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=suppKimKr&show_icons=true&theme=radical&count_private=true)
 
 🧑🏻‍💻 About Me
  
