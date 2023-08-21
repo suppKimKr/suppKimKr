@@ -30,8 +30,6 @@
  <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white"/>
 </p>
- 
-![Jiwon Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=suppKimKr&show_icons=true&theme=radical&count_private=true)
 
 🧑🏻‍💻 About Me
  
