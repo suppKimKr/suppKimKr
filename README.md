@@ -37,3 +37,6 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://suppkim.notion.site/6bf0dd73077f4817b0881e682c7b4599)](https://suppkim.notion.site/6bf0dd73077f4817b0881e682c7b4599)
  
 </div>
+
+![](./profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg)
+
